@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2 title="I'm a header">el titulo</h2>
+
+<p title="I'm a tooltip">hola</p>
+
+</body>
+</html>

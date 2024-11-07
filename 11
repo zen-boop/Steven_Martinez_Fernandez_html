@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+...
+</body>
+</html>
+
+ se puede especificar el idioma
+ como en igles
+<!DOCTYPE html>
+<html lang="en-US">
+<body>
+hi
+...
+</body>
+</html>
